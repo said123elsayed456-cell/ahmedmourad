@@ -39,7 +39,7 @@ body {
 ✊
 </div>
 
-<div id="text">احمد محمد مراد بيه 😎</div>
+<div id="text">احمد محمد مراد بيه يلا 😎</div>
 
 <script>
 function changeHand() {
